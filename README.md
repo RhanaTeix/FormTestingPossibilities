@@ -1,7 +1,7 @@
 # FormTestingPossibilities
 >A Project to learn more about Forms and its possibilities
 
-Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_](https://rhanateix.github.io/FormTestingPossibilities/)
+Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_](https://rhanateix.github.io/FormTestingPossibilities/?target=_blank)
 
 ## Table of Contents
 * [General Info](#general-information)
